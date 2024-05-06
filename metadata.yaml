@@ -1,0 +1,47 @@
+_repo: The-0xc6neid-of-Virgil-translated-into-English-prose_73488
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Conington, John
+    alias: Conington, J. (John)
+    birthdate: 1825
+    deathdate: 1869
+    gutenberg_agent_id: '1791'
+    url: http://www.gutenberg.org/2009/agents/1791
+    wikipedia: https://en.wikipedia.org/wiki/John_Conington
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergil
+    - Vergilius Maro, Publius
+    - Publio Virgilio Marón
+    - Marón, Publio Virgilio
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: https://en.wikipedia.org/wiki/Virgil
+  editor:
+    agent_name: Shumway, Edgar S.
+    gutenberg_agent_id: '57096'
+    url: http://www.gutenberg.org/2009/agents/57096
+description: ''
+gutenberg_issued: '2024-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73488'
+language: en
+pgterms:marc905: 20240408201147virgil
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Charles Aldarondo and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aNew York, NY :$bThe Macmillan Company, $c1910, pubdate 1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Æneid of Virgil translated into English prose
+url: http://www.gutenberg.org/ebooks/73488
