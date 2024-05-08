@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1791'
     url: http://www.gutenberg.org/2009/agents/1791
     wikipedia: https://en.wikipedia.org/wiki/John_Conington
+covers:
+- cover_type: archival
+  image_path: 73488-h/images/cover.jpg
 creator:
   author:
     agent_name: Virgil
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '57096'
     url: http://www.gutenberg.org/2009/agents/57096
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73488#The-0xc6neid-of-Virgil-translated-into-English-prose
 gutenberg_issued: '2024-04-28'
 gutenberg_type: Text
 identifiers:
